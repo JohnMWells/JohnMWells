@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnMWells
-- 👀 I’m interested in a career ib which I can enhance and expand my growing skills as a self taught software developer.
+- 👀 I’m interested in a career in which I can enhance and expand my growing skills as a self taught software developer.
 - 🌱 I’m currently learning Python, Java, C++
 - 💞️ I’m looking to collaborate on any specialty involving coding games and databases for offices.
 - 📫 How to reach me, my phone number is 928-699-6485, and my email is johnmwells25@gmail.com. Text or email me anytime!
